@@ -36,7 +36,7 @@ pip install requirement.txt
 ### Running project
 Change the image path in file main.py
 ```sh
-parser.add_argument("-i", "--img_path", type=str, default="a.jpg")
+parser.add_argument("-i", "--img_path", type=str, default="image path")
 ```
 Run code
 ```sh
